@@ -1,6 +1,6 @@
 # Heap_Senior_Driver
 ###Oh! Mom，I wanna learn heap exploitation with senior driver! ;-)
-|trick|vunerability|from|link|
+|trick|vulnerability|from|link|
 |-----|------------|----|----|
 |malloc_consolidate&&unlink|off-by-one|BCTF-2016|[memo](/bctf2016/memo)|
 
